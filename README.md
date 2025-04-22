@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# projects
-=======
 # project
 >>>>>>> 18ea8b4 (Initial commit)
 =======
@@ -49,3 +45,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
 >>>>>>> 9e26709 (Initial commit from Create Next App)
 >>>>>>> 8ebb408 (A new project is added)
+>>>>>>> link: https://projects-1z7b9dhsm-project1s-projects-06f96b91.vercel.app/
